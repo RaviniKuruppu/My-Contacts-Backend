@@ -4,23 +4,23 @@ This is a simple backend project built using Node.js, Express, and MySQL. This p
 
 # Technologies Used
 
-Node.js: The project is built on the Node.js runtime, providing a server-side JavaScript environment.
+**Node.js**: The project is built on the Node.js runtime, providing a server-side JavaScript environment.
 
-Express: A fast, unopinionated, minimalist web framework for Node.js, used to build robust and scalable APIs.
+**Express**: A fast, unopinionated, minimalist web framework for Node.js, used to build robust and scalable APIs.
 
-MySQL: The MySQL database is employed to store and retrieve data for the application.
+**MySQL**: The MySQL database is employed to store and retrieve data for the application.
 
 # Project Structure
 
 The project follows a modular structure to enhance organization and maintainability:
 
-controllers/: Manages HTTP request handling and response logic.
+**controllers/**: Manages HTTP request handling and response logic.
 
-middleware/: Holds middleware components for request processing.
+**middleware/**: Holds middleware components for request processing.
 
-routes/: Defines API routes and their respective controller actions.
+**routes/**: Defines API routes and their respective controller actions.
 
-database/: Involves modules related to database interactions.
+**database/**: Involves modules related to database interactions.
  
  RUN
 --------
