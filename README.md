@@ -14,13 +14,13 @@ MySQL: The MySQL database is employed to store and retrieve data for the applica
 
 The project follows a modular structure to enhance organization and maintainability:
 
-controllers/: Handles HTTP request handling and response logic.
+controllers/: Manages HTTP request handling and response logic.
 
-models/: Represents data structures and interacts with the database.
+middleware/: Holds middleware components for request processing.
 
-routes/: Defines the API routes and their corresponding controller actions.
+routes/: Defines API routes and their respective controller actions.
 
-config/: Houses configuration files and settings.
+database/: Involves modules related to database interactions.
  
  RUN
 --------
