@@ -1,4 +1,4 @@
-# Simple Node.js Express Backend Project
+# Simple Node.js Express Backend Project 🚀
 
 This is a simple backend project built using Node.js, Express, and MySQL. This project provides a straightforward example of a backend application, demonstrating the use of popular technologies to handle HTTP requests, interact with a MySQL database, and serve as a foundation for more complex applications.
 
